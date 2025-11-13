@@ -7,17 +7,15 @@
 
 # Main Page Setup
 
-title: John Doe's Portfolio # This is what shows up in the tab of the browser
+title: Neel Pawar's Engineering Portfolio # This is what shows up in the tab of the browser
 
 
 
 # Hero Section
-name: John Doe
-headline: headline message
+name: Neel Pawar
+headline: Engineering Leader | Product Development | Systems Integration
 description: >- # dont remove this line. this will ignore all new lines until the next section
-  Write an awesome intro and discuss your highlights and qualification. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  For as long as I can remember I have had a curiosity for how things worked, which often led me to taking things apart. This fascination has fostered a passion in making things, whether they be rockets, drones, furniture or teams of people. Currently, I lead the development of cutting-edge products at Safety Dave, where I am taking projects from concept to commercial production. During my time at the University of Melbourne Rocketry Team, I've driven the technical success of multiple projects, including leading the team to 2nd place at the Spaceport America Cup in 2024. My expertise spans both mechanical design and electrical design with a strong focus on integrating them together with robust systems engineering practices and hands-on leadership.
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/avatar.jpeg
@@ -32,7 +30,7 @@ resume-url: https://drive.google.com/file/d/13Z3duVzh-gguPU5r03oJVEE6rV9rd3DS/vi
 
 external-links:    # input only your own url slug. The icons with missing entries will not appear.
   linkedin: test    # https://www.linkedin.com/in/{your url slug} 
-  github: leea12    # https://github.com/{your url slug} 
+  github: PawarNeel    # https://github.com/{your url slug} 
   stackoverflow: test      # https://stackoverflow.com/users/{your url slug}
   medium:            # https://medium.com/@{your url slug} 
   x-twitter:   # https://x.com/{your url slug} 
