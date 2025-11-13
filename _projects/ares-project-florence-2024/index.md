@@ -10,7 +10,7 @@ skills:
   - Airbrakes Design
   - Competition
 
-main-image: /projects/ares-project-florence-2024/IMG_5257.jpg
+main-image: /IMG_5257.jpg
 ---
 
 # ARES - Project Florence - 2024

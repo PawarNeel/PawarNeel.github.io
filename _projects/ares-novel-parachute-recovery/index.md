@@ -8,7 +8,7 @@ skills:
   - Systems Integration
   - Testing
 
-main-image: /projects/ares-novel-parachute-recovery/image.png
+main-image: /image.png
 ---
 
 # ARES - Novel Parachute Recovery
