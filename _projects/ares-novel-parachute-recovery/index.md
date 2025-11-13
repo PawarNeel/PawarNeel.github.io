@@ -19,7 +19,7 @@ Recovery systems are often the most neglected areas within amateur rocketry, and
 
 ![image.png](image.png)
 
-![image.png](image%201.png)
+![image.png](image 1.png)
 
 ![9grbby.gif](9grbby.gif)
 
