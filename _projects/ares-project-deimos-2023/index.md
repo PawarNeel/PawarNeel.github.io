@@ -8,16 +8,16 @@ skills:
   - Competition
   - Systems Integration
 
-main-image: /ares-project-deimos-2023/013A3687.jpg
+main-image: /projects/ares-project-deimos-2023/013A3687.jpg
 ---
 
 # ARES- Project Deimos - 2023
 
-![Judging at competition](013A3687.jpg)
+## Judging at competition
 
-Judging at competition
+{% include image-gallery.html images="013A3687.jpg" height="400" %}
 
-![Installing ejection charges](013A4185.jpg)
+## Installing ejection charges
 
-Installing ejection charges
+{% include image-gallery.html images="013A4185.jpg" height="400" %}
 

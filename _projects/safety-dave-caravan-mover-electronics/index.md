@@ -9,20 +9,22 @@ skills:
   - Embedded Systems
   - Testing
 
-main-image: /safety-dave-caravan-mover-electronics/A6179811-455D-4521-856D-818219C7F9F0.jpg
+main-image: /projects/safety-dave-caravan-mover-electronics/A6179811-455D-4521-856D-818219C7F9F0.jpg
 ---
 
 # SAFETY DAVE - Caravan Mover Electronics
 
-![Front Panel Electronics Assembly with logic board](A6179811-455D-4521-856D-818219C7F9F0.jpg)
+## Front Panel Electronics Assembly with logic board
 
-Front Panel Electronics Assembly with logic board
+{% include image-gallery.html images="A6179811-455D-4521-856D-818219C7F9F0.jpg" height="400" %}
 
-![Electronics test bed for STM32 Development](98a5705c-3bc3-462a-8ac7-ec5c76d22f49.png)
+## Electronics test bed for STM32 Development
 
-Electronics test bed for STM32 Development
+{% include image-gallery.html images="98a5705c-3bc3-462a-8ac7-ec5c76d22f49.png" height="400" %}
 
-![STM32 CubeMonitor Configuration for monitoring system values during testing. e.g. currents, temps etc](image.png)
+## STM32 CubeMonitor Configuration
+
+{% include image-gallery.html images="image.png" height="400" %}
 
 STM32 CubeMonitor Configuration for monitoring system values during testing. e.g. currents, temps etc
 

@@ -8,7 +8,7 @@ skills:
   - Systems Integration
   - Testing
 
-main-image: /ares-novel-parachute-recovery/image.png
+main-image: /projects/ares-novel-parachute-recovery/image.png
 ---
 
 # ARES - Novel Parachute Recovery
@@ -17,25 +17,25 @@ main-image: /ares-novel-parachute-recovery/image.png
 
 Recovery systems are often the most neglected areas within amateur rocketry, and unsurprisingly are often the cause of many failed flights. We aimed to solve this in Project Florence. Under the guidance of an experienced skydiving parachute rigger we developed an extremely robust and performant recovery system.
 
-![image.png](image.png)
+{% include image-gallery.html images="image.png, image 1.png" height="400" %}
 
-![image.png](image 1.png)
+{% include image-gallery.html images="9grbby.gif" height="400" %}
 
-![9grbby.gif](9grbby.gif)
+## Three ring release with line cutter installed
 
-![Three ring release with line cutter installed](image_(6).png)
+{% include image-gallery.html images="image_(6).png" height="400" %}
 
-Three ring release with line cutter installed
+## Packed recovery system
 
-![Packed recovery system](image_(4).png)
+{% include image-gallery.html images="image_(4).png" height="400" %}
 
-Packed recovery system
+## Car testing rig
 
-![Car testing rig](42c2972b-9616-43ff-9041-51c267b5f5a7.png)
+{% include image-gallery.html images="42c2972b-9616-43ff-9041-51c267b5f5a7.png" height="400" %}
 
-Car testing rig
+## Successful recovery deployment
 
-![Successful recovery deployment, captured by onboard GoPro](MicrosoftTeams-image_(5).png)
+{% include image-gallery.html images="MicrosoftTeams-image_(5).png" height="400" %}
 
 Successful recovery deployment, captured by onboard GoPro
 

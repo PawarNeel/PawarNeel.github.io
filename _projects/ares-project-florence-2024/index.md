@@ -10,7 +10,7 @@ skills:
   - Airbrakes Design
   - Competition
 
-main-image: /ares-project-florence-2024/IMG_5257.jpg
+main-image: /projects/ares-project-florence-2024/IMG_5257.jpg
 ---
 
 # ARES - Project Florence - 2024
@@ -27,13 +27,13 @@ The team overdelivered on this goal, in that we not only had a successful flight
 
 In order to hit our target apogee of exactly 30,000, the rocket is designed to deploy airbrakes to slow the rocket down using a closed loop control system. The 'leaves' slid on linear bearings and were actuated through a crank mechanism that used pins and bushings.
 
-![CAD assembly of the airbrakes mechanism](IMG_5257.jpg)
+## CAD assembly of the airbrakes mechanism
 
-CAD assembly of the airbrakes mechanism
+{% include image-gallery.html images="IMG_5257.jpg" height="400" %}
 
-![Airbrakes working!](9gr8n7.gif)
+## Airbrakes working!
 
-Airbrakes working!
+{% include image-gallery.html images="9gr8n7.gif" height="400" %}
 
 ## Test Launch
 
@@ -41,9 +41,5 @@ Airbrakes working!
 
 ## Composite manufacturing
 
-![IMG_5370.HEIC](IMG_5370.heic)
-
-![IMG_5423.HEIC](IMG_5423.heic)
-
-![IMG_0518.HEIC](IMG_0518.heic)
+{% include image-gallery.html images="IMG_5370.heic, IMG_5423.heic, IMG_0518.heic" height="400" %}
 
