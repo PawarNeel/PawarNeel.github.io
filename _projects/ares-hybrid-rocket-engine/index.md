@@ -10,7 +10,7 @@ skills:
   - Manufacturing
   - Testing
 
-main-image: /image.png
+main-image: /cover.jpg
 ---
 
 # ARES - Hybrid Rocket Engine

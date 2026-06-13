@@ -8,7 +8,7 @@ skills:
   - Competition
   - Systems Integration
 
-main-image: /013A3687.jpg
+main-image: /cover.jpg
 ---
 
 # ARES- Project Deimos - 2023

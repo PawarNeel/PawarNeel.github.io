@@ -8,7 +8,7 @@ skills:
   - Structural Analysis
   - Team Collaboration
 
-main-image: /901FAA8E-595C-4E9E-8546-4D79B3122428.jpg
+main-image: /cover.jpg
 ---
 
 # ARES - Project Phobos - 2022

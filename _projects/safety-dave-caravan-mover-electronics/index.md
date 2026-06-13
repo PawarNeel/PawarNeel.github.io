@@ -9,7 +9,7 @@ skills:
   - Embedded Systems
   - Testing
 
-main-image: /A6179811-455D-4521-856D-818219C7F9F0.jpg
+main-image: /cover.jpg
 ---
 
 # SAFETY DAVE - Caravan Mover Electronics

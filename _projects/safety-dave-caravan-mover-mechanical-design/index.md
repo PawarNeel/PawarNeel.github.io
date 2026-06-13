@@ -10,7 +10,7 @@ skills:
   - Testing
   - Manufacturing
 
-main-image: /IMG_8109.jpg
+main-image: /cover.png
 ---
 
 # SAFETY DAVE - Caravan Mover Mechanical Design
