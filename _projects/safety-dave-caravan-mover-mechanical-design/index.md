@@ -20,8 +20,7 @@ main-image: /cover.png
 {% include image-gallery.html images="IMG_8109.jpg" height="400" %}
 
 <video controls playsinline width="100%" style="max-width: 700px; border-radius: 8px;">
-  <source src="IMG_8113_2.mov" type="video/quicktime">
-  <source src="IMG_8113_2.mov" type="video/mp4">
+  <source src="IMG_8113_2.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
