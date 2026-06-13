@@ -1,5 +1,6 @@
 ---
 layout: post
+order: 9
 title: ARES - Project Phobos - 2022
 description: During Project Phobos I served multiple roles in the team. I was primarily tasked with leading the payload team which was investigating the g force loading on the c6 section of the human spine. I was also responsible for BP separation system which separates the rocket, allowing the parachutes to come out.
 skills: 

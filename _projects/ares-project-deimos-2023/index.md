@@ -1,5 +1,6 @@
 ---
 layout: post
+order: 8
 title: ARES - Project Deimos - 2023
 description: Project Deimos was the team's entry for the 2023 competition season. This project involved comprehensive rocket design, manufacturing, and competition participation.
 skills: 

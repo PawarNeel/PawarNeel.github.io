@@ -6,3 +6,6 @@ _site/
 
 # macOS
 .DS_Store
+
+# Local staging folder for images being imported (not part of the site)
+new image imports/

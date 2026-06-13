@@ -1,5 +1,6 @@
 ---
 layout: post
+order: 1
 title: SAFETY DAVE - Caravan Mover Mechanical Design
 description: Mechanical design and development of the caravan mover product, including motor assembly design, thermal analysis, dyno testing, prototype development, and pilot production runs. Features CNC machined components and diecast chassis.
 skills: 

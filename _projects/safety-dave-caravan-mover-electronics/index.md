@@ -1,5 +1,6 @@
 ---
 layout: post
+order: 2
 title: SAFETY DAVE - Caravan Mover Electronics
 description: Development of electronics systems for the caravan mover product, including front panel electronics assembly with logic board, STM32 development and testing, and system monitoring capabilities.
 skills: 

@@ -1,5 +1,6 @@
 ---
 layout: post
+order: 6
 title: ARES - Project Florence - 2024
 description: I served as the Team Lead of this project from July 2023 - June 2024. Project Florence was team's entry into the Spaceport America Cup 30,000 ft category. The goal was to take on the lessons from previous year to develop a robust rocket that would survive the harsh launch conditions and be recoverable. The team overdelivered, achieving a successful flight and recovery, and getting within 0.6% of our target apogee of 30,000ft, resulting in us coming runners up in the competition.
 skills: 
