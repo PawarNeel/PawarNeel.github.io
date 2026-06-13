@@ -21,12 +21,12 @@ Currently leading the development of ARES Rocketry's first hybrid rocket engine 
 ## Hot fire
 
 <video controls playsinline width="100%" style="max-width: 700px; border-radius: 8px;">
-  <source src="hotfire-2.mp4" type="video/mp4">
+  <source src="{{ page.url | remove: 'index' | remove: '.html' }}hotfire-2.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
 <video controls playsinline width="100%" style="max-width: 700px; border-radius: 8px;">
-  <source src="hotfire-3.mp4" type="video/mp4">
+  <source src="{{ page.url | remove: 'index' | remove: '.html' }}hotfire-3.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 

@@ -39,7 +39,7 @@ In order to hit our target apogee of exactly 30,000, the rocket is designed to d
 ## Test Launch
 
 <video controls playsinline width="100%" style="max-width: 700px; border-radius: 8px;">
-  <source src="C31F0188-E68F-4CA6-80C2-D6CB6CA8722F.mp4" type="video/mp4">
+  <source src="{{ page.url | remove: 'index' | remove: '.html' }}C31F0188-E68F-4CA6-80C2-D6CB6CA8722F.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
