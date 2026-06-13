@@ -10,16 +10,20 @@ skills:
   - Testing
   - Manufacturing
 
-main-image: /IMG_8109.heic
+main-image: /IMG_8109.jpg
 ---
 
 # SAFETY DAVE - Caravan Mover Mechanical Design
 
 ## Dyno for caravan mover
 
-{% include image-gallery.html images="IMG_8109.heic" height="400" %}
+{% include image-gallery.html images="IMG_8109.jpg" height="400" %}
 
-[IMG_8113 2.mov](IMG_8113_2.mov)
+<video controls playsinline width="100%" style="max-width: 700px; border-radius: 8px;">
+  <source src="IMG_8113_2.mov" type="video/quicktime">
+  <source src="IMG_8113_2.mov" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## Prototype motor assembly
 

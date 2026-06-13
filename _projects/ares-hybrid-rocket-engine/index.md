@@ -29,13 +29,13 @@ Overview of the subscale test rig designed in onshape
 
 ## Paraffin fuel grain
 
-{% include image-gallery.html images="IMG_7473.heic" height="400" %}
+{% include image-gallery.html images="IMG_7473.jpg" height="400" %}
 
 Paraffin fuel grain, manufactured using spin casting
 
 ## Additional Images
 
-{% include image-gallery.html images="1B5A3560.jpg, IMG_7986_2.heic, IMG_8017.jpg, IMG_5772.png, IMG_5845.png" height="300" %}
+{% include image-gallery.html images="1B5A3560.jpg, IMG_7986_2.jpg, IMG_8017.jpg, IMG_5772.png, IMG_5845.png" height="300" %}
 
 ## Section view of the sub-scale HRE
 
